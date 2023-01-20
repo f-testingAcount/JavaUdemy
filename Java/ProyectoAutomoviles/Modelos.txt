@@ -1,0 +1,4 @@
+Marca: Ferrari | Denominacion: Testarossa | Tipo de Vehiculo: Auto | Cantidad: 57 -
+Marca: Lamborghini | Denominacion: Aventador | Tipo de Vehiculo: Auto | Cantidad: 100 -
+Marca: Bugatti | Denominacion: Chiron | Tipo de Vehiculo: Auto | Cantidad: 25 -
+Marca: Lotus | Denominacion: Sprit | Tipo de Vehiculo: Auto | Cantidad: 35 -

@@ -1,0 +1,1 @@
+Mecanico | Especialidad: Mecanica general | Formacion: Tecnico mecanico | Nombre: John | Apellido: Dow | DNI: 43434343 | Edad: 26 -

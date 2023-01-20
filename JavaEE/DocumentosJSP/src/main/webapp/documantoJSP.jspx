@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Document   : documantoJSP
+    Created on : 23 dic. 2022, 13:59:37
+    Author     : user
+-->
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+
+    <jsp:directive.page contentType="text/html" pageEncoding="UTF-8"/>
+
+    <!-- Uso de declaraciones con jspx la sintaxis de xml para jsps -->
+    
+    <jsp:declaration>
+        private int contadorVisitas = 1;
+    </jsp:declaration>
+    
+    
+    <html>
+        <body>
+            <h1>Documento de de JSPx</h1>
+            <!-- Salida de texto -->
+            <jsp:text>Saludos desde un docmento JSPx</jsp:text>
+            <br/>
+            <!-- Expresion con jspx -->
+            Resultado de 2 * 3 es: <jsp:expression>2*3</jsp:expression>
+            <br/>
+            <jsp:scriptlet>
+                String nombreAplicacion = request.getContextPath();
+            </jsp:scriptlet>
+            Nombre de la aplicacion: <jsp:expression>nombreAplicacion</jsp:expression>
+            <br/>
+            Contador de visitas: 
+            <jsp:expression>this.contadorVisitas</jsp:expression>
+        </body>
+    </html>
+</jsp:root>

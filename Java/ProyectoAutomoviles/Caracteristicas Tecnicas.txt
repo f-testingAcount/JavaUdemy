@@ -1,0 +1,3 @@
+Modelo | Denominacion: Testarossa | TipoMotor: Naftero central | Cilindros: 12 boxer | Cilindrada: 4997 cm3 | HP: 412 | Caja: Manual de 5 velocidades | Equipamiento: null | Carroceria: Berlinetta coupe | id: 2 -
+Modelo | Denominacion: Sprit | TipoMotor: Naftero central | Cilindros: 4 | Cilindrada: 3000 cm3 | HP: 300 | Caja: Manual de 5 velocidades | Equipamiento: null | Carroceria: Berlina coupe | id: 0 -
+Modelo | Denominacion: Aventador | TipoMotor: Naftero central | Cilindros: 12 V | Cilindrada: 5500 cm3 | HP: 700 | Caja: Secuencial de 8 velocidades | Equipamiento: null | Carroceria: Berlina coupe | id: 0 -

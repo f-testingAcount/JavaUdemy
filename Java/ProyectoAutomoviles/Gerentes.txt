@@ -1,0 +1,3 @@
+Gerente | Area: Ventas | Estudios: Lic adm empresas | Nombre Agencia: Miami motors | Nombre: Juan | Apellido: Perez | DNI: 34543443 | Edad: 43 -
+Gerente | Area: Marketing | Estudios: Lic Marketing | Nombre Agencia: Miami motors | Nombre: Juan | Apellido: Gabriel | DNI: 32323232 | Edad: 36 - 
+Gerente | Area: Ventas | Estudios: Lic Comercializacion | Nombre Agencia: Fiat Paraguay | Nombre: Maria | Apellido: Magdalena | DNI: 32323232 | Edad: 26 - 

@@ -1,0 +1,2 @@
+Vendedor | Area: Accesorios | Formacion: Adm empresas | Nombre: Laura | Apellido: Dow | DNI: 34433443 | Edad: 27 -
+Vendedor | Area: Camiones | Formacion: Lic Comercializacion | Nombre: Javier | Apellido: McGuill | DNI: 32323232 | Edad: 24 - 
